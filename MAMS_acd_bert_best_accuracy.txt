@@ -1,0 +1,4 @@
+batch: 10 accumulation_steps: 1 lr: 1e-05 epochs: 15 epoch: 1 val_accuracy: 0.8921875 test_accuracy: 0.895
+batch: 10 accumulation_steps: 1 lr: 1e-05 epochs: 15 epoch: 2 val_accuracy: 0.9115625 test_accuracy: 0.9190625
+batch: 10 accumulation_steps: 1 lr: 1e-05 epochs: 15 epoch: 3 val_accuracy: 0.9165625 test_accuracy: 0.9221875
+batch: 10 accumulation_steps: 1 lr: 1e-05 epochs: 15 epoch: 4 val_accuracy: 0.9246875 test_accuracy: 0.92375

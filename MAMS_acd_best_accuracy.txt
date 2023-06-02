@@ -1,0 +1,12 @@
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 1 val_accuracy: 0.908125 test_accuracy: 0.90875
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 2 val_accuracy: 0.935 test_accuracy: 0.94375
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 3 val_accuracy: 0.9365625 test_accuracy: 0.9425
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 4 val_accuracy: 0.9378125 test_accuracy: 0.9440625
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 7 val_accuracy: 0.9396875 test_accuracy: 0.9409375
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 8 val_accuracy: 0.94 test_accuracy: 0.94625
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 1 val_accuracy: 0.8184375 test_accuracy: 0.8184375
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 2 val_accuracy: 0.9059375 test_accuracy: 0.9096875
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 3 val_accuracy: 0.9090625 test_accuracy: 0.9203125
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 4 val_accuracy: 0.9253125 test_accuracy: 0.9303125
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 5 val_accuracy: 0.931875 test_accuracy: 0.94125
+batch: 16 accumulation_steps: 1 lr: 4e-05 epochs: 15 epoch: 6 val_accuracy: 0.9340625 test_accuracy: 0.9403125
